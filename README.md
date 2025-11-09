@@ -1,5 +1,11 @@
 # PowerBi-Project
 
+<p align="center">
+	<a href="https://github.com/user-attachments/assets/18f93a36-4f48-4858-b8da-9c11575330a3">
+		<img src="https://github.com/user-attachments/assets/18f93a36-4f48-4858-b8da-9c11575330a3" alt="Sample visual" width="1200" />
+	</a>
+</p>
+
 ## Project Overview
 
 This project demonstrates a simple end-to-end workflow for preparing and presenting data using Microsoft Excel for data cleaning and Microsoft Power BI for analysis and visualization. The sample dataset focuses on sales performance (orders, customers, products, and dates) and shows how to transform raw data into a clean, analysis-ready model and create an interactive Power BI report.
